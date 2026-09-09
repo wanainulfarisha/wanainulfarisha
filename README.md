@@ -88,4 +88,3 @@ I'm interested in opportunities involving:
 ---
 
 ⭐ This profile is continuously being updated as I add new engineering projects and develop new technical skills.
-```
