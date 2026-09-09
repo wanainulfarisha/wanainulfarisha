@@ -40,7 +40,7 @@ Git • GitHub
 
 ## 🚀 Featured Projects
 
-### 🌲 SmartSAR — IoT Hiker Safety & Tracking System
+### 🌲 [SmartSAR — IoT Hiker Safety & Tracking System](https://github.com/wanainulfarisha/smartsar-hiker-safety-system)
 An IoT-enabled GPS tracking and emergency communication platform designed to improve hiker safety and support search-and-rescue operations.
 
 **Technologies:** Flutter • Firebase • GPS • Google Maps • QR Code • Offline Synchronization
