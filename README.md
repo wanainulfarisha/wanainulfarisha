@@ -113,7 +113,13 @@ I'm interested in opportunities involving:
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/wan-ainul-farisha-mohd-hairul-0999b9303/)
+I'm open to graduate and entry-level opportunities across embedded systems, IoT, design engineering, test engineering, mechatronics, automation, and related engineering roles.
+
+<a href="mailto:farisha.hai06@gmail.com"><strong>Email</strong></a>
+&nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/wan-ainul-farisha-mohd-hairul-0999b9303/"><strong>LinkedIn</strong></a>
+&nbsp; • &nbsp;
+<a href="https://github.com/wanainulfarisha?tab=repositories"><strong>Repositories</strong></a>
 
 ---
 
