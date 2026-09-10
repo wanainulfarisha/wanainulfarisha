@@ -37,22 +37,13 @@ My current portfolio highlights projects where I can demonstrate not just the fi
 
 ## 🛠️ Technical Skills
 
-**Programming**  
-C • C++
-
-**Mobile & IoT Development**  
-Flutter • Firebase • GPS • QR-Based Systems
-
-**Embedded Systems**  
-Arduino • Microcontrollers • Sensors • Embedded C/C++
-
-**Engineering & Simulation**  
-MATLAB • Simulink • SolidWorks • NI Multisim
-
-**Tools & Development**  
-Git • GitHub
-
----
+| Area | Skills |
+|---|---|
+| **Programming** | C, C++, Python, Dart |
+| **Embedded Systems** | Microcontrollers, Arduino, Sensors, UART, I2C, SPI |
+| **IoT & Mobile** | Flutter, Firebase, MQTT, GPS, QR-Based Systems |
+| **Engineering & Simulation** | MATLAB, Simulink, SolidWorks, NI Multisim |
+| **Testing & Development** | Hardware–Software Integration, Troubleshooting, Debugging, Git, GitHub |
 
 ## 🚀 Featured Projects
 
