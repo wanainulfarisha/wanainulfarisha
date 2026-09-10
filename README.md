@@ -45,6 +45,8 @@ My current portfolio highlights projects where I can demonstrate not just the fi
 | **Engineering & Simulation** | MATLAB, Simulink, SolidWorks, NI Multisim |
 | **Testing & Development** | Hardware–Software Integration, Troubleshooting, Debugging, Git, GitHub |
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🌲 [SmartSAR — IoT Hiker Safety & Tracking System](https://github.com/wanainulfarisha/smartsar-hiker-safety-system)
