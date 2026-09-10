@@ -16,12 +16,6 @@ I enjoy working across both hardware and software from microcontrollers and sens
 
 My current portfolio highlights projects where I can demonstrate not just the final product, but also the **engineering process, implementation, testing, and results**.
 
-<p align="center">
-  <a href="https://github.com/wanainulfarisha/smartsar-hiker-safety-system">
-    <strong>🌲 Explore SmartSAR →</strong>
-  </a>
-</p>
-
 ---
 
 ## 👩🏻‍💻 About Me
@@ -77,16 +71,43 @@ A collection of mechanical and mechatronic designs developed using SolidWorks, i
 
 ---
 
+## 💼 Experience & Education
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Engineering Intern</h3>
+      <p><strong>Innowave LLC Sdn. Bhd.</strong></p>
+      <ul>
+        <li>Worked with microcontroller-based embedded systems and sensors.</li>
+        <li>Supported hardware–software integration, testing, and debugging.</li>
+        <li>Gained hands-on exposure to IoT communication including MQTT, LTE, and OTA workflows.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Bachelor of Mechatronic Engineering</h3>
+      <p><strong>Universiti Sains Malaysia (USM)</strong></p>
+      <p>
+        Multidisciplinary engineering background covering embedded systems,
+        electronics, programming, robotics, control systems, automation,
+        and mechanical design.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🎯 Career Interests
 
 I'm interested in opportunities involving:
 
 - Embedded Software Engineering
-- Product Engineering
+- Design Engineering
 - Test Engineering
 - Mechatronics Engineering
 - IoT Systems
-- Engineering Design
+- Electrical Design
 
 ---
 
