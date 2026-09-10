@@ -1,10 +1,26 @@
-# Hi, I'm Wan Ainul Farisha 👋
+<h1 align="center">Hi, I'm Wan Ainul Farisha 👋</h1>
 
-### Mechatronics Engineering Graduate | Embedded Software | IoT | Engineering Design
+<h3 align="center">
+Mechatronics Engineering Graduate | Embedded Systems | IoT | Engineering Design
+</h3>
 
-I'm a Mechatronics Engineering graduate with an interest in developing systems that connect **hardware, software, and engineering design**.
+<p align="center">
+I build engineering systems that connect hardware, software, sensors, and real-world applications.
+</p>
 
-My experience includes embedded systems, IoT applications, mobile development, robotics, sensor integration, and CAD design. I'm currently building this GitHub portfolio to document my engineering projects and continue developing industry-relevant technical skills.
+---
+
+I'm a **Mechatronics Engineering graduate from Universiti Sains Malaysia (USM)** with hands-on experience in embedded systems, IoT, mobile application development, hardware–software integration, testing, and engineering design.
+
+I enjoy working across both hardware and software from microcontrollers and sensors to connected applications and practical engineering solutions.
+
+My current portfolio highlights projects where I can demonstrate not just the final product, but also the **engineering process, implementation, testing, and results**.
+
+<p align="center">
+  <a href="https://github.com/wanainulfarisha/smartsar-hiker-safety-system">
+    <strong>🌲 Explore SmartSAR →</strong>
+  </a>
+</p>
 
 ---
 
