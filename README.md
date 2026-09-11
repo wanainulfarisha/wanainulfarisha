@@ -20,12 +20,10 @@ My current portfolio highlights projects where I can demonstrate not just the fi
 
 ## 👩🏻‍💻 About Me
 
-- 🎓 Mechatronics Engineering Graduate
-- 💻 Interested in Embedded Software, IoT, Product Engineering & Mechatronics
-- 🔧 Enjoy working with both hardware and software
-- 🛠 Interested in engineering design and SolidWorks
-- 📍 Malaysia
-- 🌱 Currently expanding my skills through hands-on engineering and software projects
+- 🎓 Mechatronics Engineering Graduate from Universiti Sains Malaysia (USM)
+- 💻 Interested in Embedded Systems, IoT, Test Engineering & Engineering Design
+- 🔧 Comfortable working across hardware, software, sensors, and system integration
+- 🌱 Currently strengthening my technical skills through hands-on engineering projects
 
 ---
 
