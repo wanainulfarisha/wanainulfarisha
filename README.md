@@ -117,14 +117,9 @@ A collection of mechanical and mechatronic designs developed using SolidWorks, i
 
 ## 🎯 Career Interests
 
-I'm interested in opportunities involving:
+I'm interested in graduate and entry-level opportunities in **embedded systems, test engineering, design engineering, mechatronics, automation, and IoT**.
 
-- Embedded Software Engineering
-- Design Engineering
-- Test Engineering
-- Mechatronics Engineering
-- IoT Systems
-- Electrical Design
+I'm open to learning and gaining hands-on experience in related engineering fields.
 
 ---
 
