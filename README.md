@@ -119,13 +119,15 @@ A collection of mechanical and mechatronic designs developed using SolidWorks, i
 
 I'm interested in graduate and entry-level opportunities in **embedded systems, test engineering, design engineering, mechatronics, automation, and IoT**.
 
-Feel free to connect with me for career opportunities or engineering-related discussions.
+I enjoy working with both hardware and software, and I'm open to roles where I can continue learning, gain more hands-on experience, and apply my engineering skills to real projects.
 
 ---
 
 ## 📫 Connect With Me
 
-I'm open to graduate and entry-level opportunities across embedded systems, IoT, design engineering, test engineering, mechatronics, automation, and related engineering roles.
+I'm currently exploring graduate and entry-level engineering opportunities and would be happy to connect with recruiters, engineers, or anyone working in related technical fields.
+
+Feel free to reach out if you would like to discuss career opportunities, engineering projects, or possible collaborations.
 
 <a href="mailto:farisha.hai06@gmail.com"><strong>Email</strong></a>
 &nbsp; • &nbsp;
