@@ -43,10 +43,29 @@ My current portfolio highlights projects where I can demonstrate not just the fi
 
 ## 🚀 Featured Projects
 
-### 🌲 [SmartSAR — IoT Hiker Safety & Tracking System](https://github.com/wanainulfarisha/smartsar-hiker-safety-system)
-An IoT-enabled GPS tracking and emergency communication platform designed to improve hiker safety and support search-and-rescue operations.
-
-**Technologies:** Flutter • Firebase • GPS • Google Maps • QR Code • Offline Synchronization
+<table>
+<tr>
+<td width="20%" align="center" valign="middle">
+<a href="https://github.com/wanainulfarisha/smartsar-hiker-safety-system">
+<img src="https://raw.githubusercontent.com/wanainulfarisha/smartsar-hiker-safety-system/main/screenshots/dashboard.PNG" width="180">
+</a>
+</td>
+<td width="80%" valign="top">
+<h3>🌲 SmartSAR — Hiker Safety & Tracking System</h3>
+<p>A mobile hiker tracking and emergency communication system developed to support safer hiking and search-and-rescue operations.</p>
+<p>The system integrates GPS journey tracking, QR checkpoint verification, offline data storage and synchronization, SOS communication, and administrator monitoring.</p>
+<p>
+<code>Flutter</code>
+<code>Dart</code>
+<code>Firebase</code>
+<code>Google Maps</code>
+<code>GPS</code>
+<code>QR Code</code>
+</p>
+<a href="https://github.com/wanainulfarisha/smartsar-hiker-safety-system"><strong>Explore the project →</strong></a>
+</td>
+</tr>
+</table>
 
 ---
 
