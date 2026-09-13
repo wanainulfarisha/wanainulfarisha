@@ -90,28 +90,15 @@ A collection of mechanical and mechatronic designs developed using SolidWorks, i
 
 ## 💼 Experience & Education
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Engineering Intern</h3>
-      <p><strong>Innowave LLC Sdn. Bhd.</strong></p>
-      <ul>
-        <li>Worked with microcontroller-based embedded systems and sensors.</li>
-        <li>Supported hardware–software integration, testing, and debugging.</li>
-        <li>Gained hands-on exposure to IoT communication including MQTT, LTE, and OTA workflows.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Bachelor of Mechatronic Engineering</h3>
-      <p><strong>Universiti Sains Malaysia (USM)</strong></p>
-      <p>
-        Multidisciplinary engineering background covering embedded systems,
-        electronics, programming, robotics, control systems, automation,
-        and mechanical design.
-      </p>
-    </td>
-  </tr>
-</table>
+**Engineering Intern — Innowave LLC Sdn. Bhd.**
+
+- Worked with microcontroller-based embedded systems and sensors.
+- Supported hardware–software integration, testing, and debugging.
+- Gained hands-on exposure to IoT communication including MQTT, LTE, and OTA workflows.
+
+**Bachelor of Mechatronic Engineering — Universiti Sains Malaysia (USM)**
+
+Multidisciplinary engineering background covering embedded systems, electronics, programming, robotics, control systems, automation, and mechanical design.
 
 ---
 
