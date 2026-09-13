@@ -115,6 +115,25 @@ A collection of mechanical and mechatronic designs developed using SolidWorks, i
 
 ---
 
+## 📚 Current Training
+
+### Professional Training Program in Integrated Circuit (IC) Design
+**CEDEC, Sains@USM | 14–24 September 2026**
+
+Currently participating in an 8-day professional training program covering the IC design process, from schematic design to layout and post-layout simulation.
+
+**Topics include:**
+- CMOS technology and custom IC design flow
+- Schematic design
+- IC layout design and layout verification
+- Post-layout simulation
+- I/O pad placement
+- Industry-standard layout techniques
+- IC test and measurement exposure
+- Capstone presentation
+
+---
+
 ## 🎯 Career Interests
 
 I'm interested in graduate and entry-level opportunities in **embedded systems, test engineering, design engineering, mechatronics, automation, and IoT**.
