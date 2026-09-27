@@ -110,19 +110,36 @@ Multidisciplinary engineering background covering embedded systems, electronics,
 
 Completed an 8-day professional training program covering the IC design process, from schematic design and simulation to physical layout, verification, and post-layout simulation.
 
-**Key areas covered:**
-- CMOS technology and custom IC design flow
-- Schematic design
-- IC layout design
-- Layout verification
-- Post-layout simulation
-- I/O pad placement
-- Industry-standard layout techniques
-- IC test and measurement exposure
-- Semiconductor industry talks and lab visits
-- Capstone presentation
+<table>
+<tr>
 
-<img src="certificates/ic-design-certificate.jpg" width="450">
+<td width="60%" valign="top">
+
+<b>Key areas covered:</b>
+
+<ul>
+<li>CMOS technology and custom IC design flow</li>
+<li>Schematic design</li>
+<li>IC layout design</li>
+<li>Layout verification</li>
+<li>Post-layout simulation</li>
+<li>I/O pad placement</li>
+<li>Industry-standard layout techniques</li>
+<li>IC test and measurement exposure</li>
+<li>Semiconductor industry talks and lab visits</li>
+<li>Capstone presentation</li>
+</ul>
+
+</td>
+
+<td width="40%" align="center" valign="top">
+
+<img src="certificates/ic-design-certificate.jpg" width="280">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
