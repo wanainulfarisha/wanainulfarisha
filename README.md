@@ -102,22 +102,27 @@ Multidisciplinary engineering background covering embedded systems, electronics,
 
 ---
 
-## 📚 Current Training
+## 🎓 Professional Training & Certification
 
 ### Professional Training Program in Integrated Circuit (IC) Design
-**CEDEC, Sains@USM | 14–24 September 2026**
+**CEDEC, Sains@USM | 14–24 September 2026**  
+**Professional Certificate Awarded**
 
-Currently participating in an 8-day professional training program covering the IC design process, from schematic design to layout and post-layout simulation.
+Completed an 8-day professional training program covering the IC design process, from schematic design and simulation to physical layout, verification, and post-layout simulation.
 
-**Topics include:**
+**Key areas covered:**
 - CMOS technology and custom IC design flow
 - Schematic design
-- IC layout design and layout verification
+- IC layout design
+- Layout verification
 - Post-layout simulation
 - I/O pad placement
 - Industry-standard layout techniques
 - IC test and measurement exposure
+- Semiconductor industry talks and lab visits
 - Capstone presentation
+
+<img src="certificates/ic-design-certificate.jpg" width="450">
 
 ---
 
