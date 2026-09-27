@@ -134,7 +134,7 @@ Completed an 8-day professional training program covering the IC design process,
 
 <td width="40%" align="center" valign="top">
 
-<img src="certificates/ic-design-certificate.jpg" width="280">
+<img src="certificates/ic-design-certificate.jpg" width="350">
 
 </td>
 
