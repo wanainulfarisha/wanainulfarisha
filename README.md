@@ -32,9 +32,9 @@ My current portfolio highlights projects where I can demonstrate not just the fi
 | Area | Skills |
 |---|---|
 | **Programming** | C, C++, Python, Dart |
-| **Embedded Systems** | Microcontrollers, Arduino, Sensors, UART, I2C, SPI |
+| **Embedded Systems** | Microcontrollers, Arduino, Sensors, UART, I2C |
 | **IoT & Mobile** | Flutter, Firebase, MQTT, GPS, QR-Based Systems |
-| **Engineering & Simulation** | MATLAB, Simulink, SolidWorks, NI Multisim |
+| **Engineering & Simulation** | SolidWorks, NI Multisim, Cadence |
 | **Testing & Development** | Hardware–Software Integration, Troubleshooting, Debugging, Git, GitHub |
 
 ---
