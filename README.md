@@ -145,7 +145,7 @@ Completed an 8-day professional training program covering the IC design process,
 
 ## 🎯 Career Interests
 
-I'm interested in graduate and entry-level opportunities in **embedded systems, test engineering, design engineering, mechatronics, automation, and IoT**.
+I'm interested in graduate and entry-level opportunities in **embedded systems, test engineering, design engineering, mechatronics, automation, IC design and IoT**.
 
 I enjoy working with both hardware and software, and I'm open to roles where I can continue learning, gain more hands-on experience, and apply my engineering skills to real projects.
 
