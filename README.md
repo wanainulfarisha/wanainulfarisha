@@ -84,7 +84,7 @@ Robot trajectory planning and simulation using cubic polynomial trajectories and
 ### 🛠️ Engineering Design Portfolio
 A collection of mechanical and mechatronic designs developed using SolidWorks, including CAD modelling, assemblies, and engineering drawings.
 
-**Technologies:** SolidWorks • CAD • Mechanical Design
+**Technologies:** SolidWorks • CAD • Mechanical Design • Cadence tools
 
 ---
 
